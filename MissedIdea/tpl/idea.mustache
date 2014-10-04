@@ -1,0 +1,24 @@
+<li class="idea{{#hasVoted}} lit{{/hasVoted}}">
+	<div class="rating">
+		<em>{{votes}}</em>
+		<a href="{{voteLink}}"></a>
+	</div>
+
+	<div class="information">
+		<a href="#" class="author">{{name}}</a>
+		<a href="{{commentsLink}}" class="comments showComments">{{numComments}} comments</a>
+		<span class="date">{{date}}</span>
+	</div>
+
+	<p><a href="{{commentsLink}}" class="showComments">{{text}}</a></p>
+
+	<div class="commentContainer hide">
+		<form action="{{submitCommentUrl}}" method="post">
+			<dl>
+				<dt>Post your comment</dt>
+				<dd><input type="text" value="Your comment..." /></dd>
+			</dl>
+			<p><button>Post it!</button></p>
+		</form>
+	</div>
+</li>

@@ -1,0 +1,164 @@
+<html>
+<head>
+<link style="text/css" rel="stylesheet" href="reset.css" />
+<style type="text/css">
+html {
+	font: 14px/18px Arial, sans-serif;
+}
+
+body {
+	margin: 0 auto;
+	width: 1000px;
+}
+
+a {
+	text-decoration: inherit;
+	color: inherit;
+}
+
+#navigation {
+	float: left;
+	text-align: right;
+	width: 190px;
+	padding: 40px 10px 40px 0;
+}
+
+#navigation ul {
+	font-size: 30px;
+	line-height: 34px;
+	margin: 30px 0;
+	text-transform: lowercase;
+}
+
+#navigation .all {
+	font-weight: bold;
+	line-height: 48px;
+}
+
+#ideas {
+	float: right;
+	width: 710px;
+	background-color: black;
+	color: white;
+	min-height: 100%;
+	padding: 20px 0 0 90px;
+	-webkit-box-shadow: 0px 0px 10px #000;
+	box-shadow: 0px 0px 10px #000;
+}
+
+.idea {
+	margin: 40px 40px 40px -40px;
+}
+
+.information, .idea p {
+	margin: 0 0 0 40px;
+}
+
+.idea p {
+	font-size: 24px;
+	line-height: 32px;
+}
+
+.rating {
+	float: left;
+	width: 40px;
+}
+
+.information {
+	line-height: 18px;
+}
+.information a, .information span { 
+	padding-right: 6px;
+}
+.information .author {
+	font-weight: bold;
+}
+.information .comments {
+	font-size: 12px;
+	color: #fdff31;
+}
+.information .date {
+	font-size: 12px;
+	color: #d5d5d5;
+}
+
+.account {
+	color: #8e8e8e;
+}
+
+.facebook {
+	margin: 60px 0 10px 0;
+}
+
+.rating {
+	color: #fffb8a;
+	text-align: center;
+}
+.rating a {
+	background: center top no-repeat;
+	background-image: url("bulb-unlit.png");
+	width: 23px;
+	height: 43px;
+	display: inline-block;
+}
+.lit .rating a {
+	background-image: url("bulb-lit.png");
+	color: #fff726;
+}
+.rating em {
+	display: block;
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 21px;
+}
+
+</style>
+</head>
+<body>
+<div id="navigation">
+	<h2><img src="missedidealogo.png" width="111" height="94" alt="Missed Idea" /></h2>
+	<ul>
+		<li class="all"><a href="#">Anything</a></li>
+		<li><a href="#">Business</a></li>
+		<li><a href="#">Education</a></li>
+		<li><a href="#">Politics</a></li>
+		<li><a href="#">Technology</a></li>
+	</ul>
+	<ul class="account">
+		<li><a href="#">Favorites</a></li>
+		<li><a href="#">Friend ideas</a></li>
+		<li><a href="#">My ideas</a></li>
+	</ul>
+	<p class="facebook"><img src="facebook-connect.png" width="140" height="27" alt="Connect with Facebook" /></p>
+</div>
+<div id="ideas">
+	<ol>
+		<li class="idea">
+			<div class="rating">
+				<em>293</em>
+				<a href="#"></a>
+			</div>
+			<div class="information">
+				<a href="#" class="author">Michael Clark</a>
+				<a href="#" class="comments">142 comments</a>
+				<span class="date">12 minutes ago</span>
+			</div>
+			<p>Create a robot so you do not have to hire someone to clean your house</p>
+		</li>
+
+		<li class="idea lit">
+			<div class="rating">
+				<em>30</em>
+				<a href="#"></a>
+			</div>
+			<div class="information">
+				<a href="#" class="author">Jake Howard</a>
+				<a href="#" class="comments">47 comments</a>
+				<span class="date">30 minutes ago</span>
+			</div>
+			<p>Call your doctor and show him your injuries using your phone, charging per call</p>
+		</li>
+	</ol>
+</div>
+</body>
+</html>

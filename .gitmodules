@@ -1,0 +1,19 @@
+[submodule "MissedIdea/mustache.js"]
+	path = MissedIdea/mustache.js
+	url = git://github.com/janl/mustache.js.git
+[submodule "MissedIdea/mustache.php"]
+	path = MissedIdea/mustache.php
+	url = git://github.com/bobthecow/mustache.php.git
+[submodule "MissedIdea/Reflection-Router"]
+	path = MissedIdea/Reflection-Router
+	url = git@github.com:mjac/Reflection-Router.git
+[submodule "MissedIdea/ICanHaz.js"]
+	path = MissedIdea/ICanHaz.js
+	url = git://github.com/andyet/ICanHaz.js
+[submodule "MissedIdea/fb-php-sdk"]
+	path = MissedIdea/fb-php-sdk
+	url = https://github.com/facebook/facebook-php-sdk.git
+[submodule "MissedIdea/infinite-scroll"]
+	path = MissedIdea/infinite-scroll
+	url = git://github.com/paulirish/infinite-scroll.git
+

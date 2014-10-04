@@ -1,0 +1,505 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Action	Reflection-Router/ReflectionRouter.php	/^class Action {$/;"	c
+ActionMap	Reflection-Router/ReflectionRouter.php	/^class ActionMap {$/;"	c
+ActionMapTest	Reflection-Router/tests/ActionMap.php	/^class ActionMapTest extends \\PHPUnit_Framework_TestCase {$/;"	c
+ActionNotAccessibleException	Reflection-Router/ReflectionRouter.php	/^class ActionNotAccessibleException extends Exception {$/;"	c
+ActionNotFoundException	Reflection-Router/ReflectionRouter.php	/^class ActionNotFoundException extends Exception {$/;"	c
+ActionParam	Reflection-Router/ReflectionRouter.php	/^interface ActionParam {$/;"	i
+ActionParamExtended	Reflection-Router/ReflectionRouter.php	/^interface ActionParamExtended extends ActionParam {$/;"	i
+ActionParamsIncorrectException	Reflection-Router/ReflectionRouter.php	/^class ActionParamsIncorrectException extends Exception {$/;"	c
+ActionTest	Reflection-Router/tests/Action.php	/^class ActionTest extends \\PHPUnit_Framework_TestCase {$/;"	c
+Alpha	mustache.php/test/MustacheObjectSectionTest.php	/^class Alpha extends Mustache {$/;"	c
+Beta	mustache.php/test/MustacheObjectSectionTest.php	/^class Beta extends Mustache {$/;"	c
+Category	class/Category.php	/^class Category {$/;"	c
+ChildContext	mustache.php/examples/child_context/ChildContext.php	/^class ChildContext extends Mustache {$/;"	c
+ClassWithCall	mustache.php/test/MustacheCallTest.php	/^class ClassWithCall {$/;"	c
+ColorSchemeExample	Reflection-Router/tests/RegisterExample.php	/^class ColorSchemeExample implements ActionParamExtended {$/;"	c
+CommentManager	class/CommentManager.php	/^class CommentManager extends ContentManagerAbstract {$/;"	c
+Comments	mustache.php/examples/comments/Comments.php	/^class Comments extends Mustache {$/;"	c
+Complex	mustache.php/examples/complex/complex.php	/^class Complex extends Mustache {$/;"	c
+ConnectDatabase	class/ConnectDatabase.php	/^class ConnectDatabase {$/;"	c
+ContentManagerAbstract	class/ContentManagerAbstract.php	/^abstract class ContentManagerAbstract {$/;"	c
+ContentWriter	class/ContentWriter.php	/^class ContentWriter {$/;"	c
+DS	mustache.php/bin/create_example.php	/^define('DS', DIRECTORY_SEPARATOR);$/;"	d
+Delimiters	mustache.php/examples/delimiters/Delimiters.php	/^class Delimiters extends Mustache {$/;"	c
+Delta	mustache.php/test/MustacheObjectSectionTest.php	/^class Delta extends Mustache {$/;"	c
+DifferentMustacheLoader	mustache.php/test/MustacheLoaderTest.php	/^class DifferentMustacheLoader implements ArrayAccess {$/;"	c
+DotNotation	mustache.php/examples/dot_notation/DotNotation.php	/^class DotNotation extends Mustache {$/;"	c
+DoubleSection	mustache.php/examples/double_section/DoubleSection.php	/^class DoubleSection extends Mustache {$/;"	c
+EXAMPLE_PATH	mustache.php/bin/create_example.php	/^define('EXAMPLE_PATH', realpath(dirname(__FILE__) . DS . ".." . DS . "examples"));$/;"	d
+EmailAddressExample	Reflection-Router/tests/RegisterExample.php	/^class EmailAddressExample implements ActionParam {$/;"	c
+Escaped	mustache.php/examples/escaped/Escaped.php	/^class Escaped extends Mustache {$/;"	c
+Exception	Reflection-Router/ReflectionRouter.php	/^class Exception extends \\Exception {$/;"	c
+Foo	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^class Foo extends Mustache {$/;"	c
+Gamma	mustache.php/test/MustacheObjectSectionTest.php	/^class Gamma extends Mustache {$/;"	c
+GrandParentContext	mustache.php/examples/grand_parent_context/GrandParentContext.php	/^class GrandParentContext extends Mustache {$/;"	c
+I18n	mustache.php/examples/i18n/I18n.php	/^class I18n extends Mustache {$/;"	c
+IdeaManager	class/IdeaManager.php	/^class IdeaManager extends ContentManagerAbstract { $/;"	c
+ImplicitIterator	mustache.php/examples/implicit_iterator/ImplicitIterator.php	/^class ImplicitIterator extends Mustache {$/;"	c
+InvertedDoubleSection	mustache.php/examples/inverted_double_section/InvertedDoubleSection.php	/^class InvertedDoubleSection extends Mustache {$/;"	c
+InvertedSection	mustache.php/examples/inverted_section/InvertedSection.php	/^class InvertedSection extends Mustache {$/;"	c
+JsonRequest	class/JsonRequest.php	/^class JsonRequest {$/;"	c
+LessWhinyMustache	mustache.php/test/MustachePragmaTest.php	/^class LessWhinyMustache extends Mustache {$/;"	c
+MagicObject	mustache.php/examples/section_magic_objects/SectionMagicObjects.php	/^class MagicObject {$/;"	c
+MessageExample	Reflection-Router/tests/MessageExample.php	/^class MessageExample {$/;"	c
+ModuleNotFoundException	Reflection-Router/ReflectionRouter.php	/^class ModuleNotFoundException extends Exception {$/;"	c
+ModuleParamsIncorrectException	Reflection-Router/ReflectionRouter.php	/^class ModuleParamsIncorrectException extends Exception {$/;"	c
+Monster	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^class Monster extends Mustache {$/;"	c
+Mustache	mustache.php/Mustache.php	/^class Mustache {$/;"	c
+MustacheCallTest	mustache.php/test/MustacheCallTest.php	/^class MustacheCallTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustacheException	mustache.php/Mustache.php	/^class MustacheException extends Exception {$/;"	c
+MustacheExceptionTest	mustache.php/test/MustacheExceptionTest.php	/^class MustacheExceptionTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustacheExposedOptionsStub	mustache.php/test/MustacheTest.php	/^class MustacheExposedOptionsStub extends Mustache {$/;"	c
+MustacheHigherOrderSectionsTest	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^class MustacheHigherOrderSectionsTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustacheInjectionSectionTest	mustache.php/test/MustacheInjectionTest.php	/^class MustacheInjectionSectionTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustacheLoader	mustache.php/MustacheLoader.php	/^class MustacheLoader implements ArrayAccess {$/;"	c
+MustacheLoaderTest	mustache.php/test/MustacheLoaderTest.php	/^class MustacheLoaderTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustacheObjectSectionTest	mustache.php/test/MustacheObjectSectionTest.php	/^class MustacheObjectSectionTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustachePragmaTest	mustache.php/test/MustachePragmaTest.php	/^class MustachePragmaTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustachePragmaUnescapedTest	mustache.php/test/MustachePragmaUnescapedTest.php	/^class MustachePragmaUnescapedTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustacheSpecTest	mustache.php/test/MustacheSpecTest.php	/^class MustacheSpecTest extends PHPUnit_Framework_TestCase {$/;"	c
+MustacheTest	mustache.php/test/MustacheTest.php	/^class MustacheTest extends PHPUnit_Framework_TestCase {$/;"	c
+PREG_BAD_UTF8_OFFSET_ERROR	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  define('PREG_BAD_UTF8_OFFSET_ERROR', 5);$/;"	d
+Partials	mustache.php/examples/partials/Partials.php	/^class Partials extends Mustache {$/;"	c
+PartialsWithViewClass	mustache.php/examples/partials_with_view_class/PartialsWithViewClass.php	/^class PartialsWithViewClass extends Mustache {$/;"	c
+Person	class/Person.php	/^class Person {$/;"	c
+PickyMustache	mustache.php/test/MustacheExceptionTest.php	/^class PickyMustache extends Mustache {$/;"	c
+PragmaUnescaped	mustache.php/examples/pragma_unescaped/PragmaUnescaped.php	/^class PragmaUnescaped extends Mustache {$/;"	c
+PragmasInPartials	mustache.php/examples/pragmas_in_partials/PragmasInPartials.php	/^class PragmasInPartials extends Mustache {$/;"	c
+PrivateExample	Reflection-Router/tests/PrivateExample.php	/^class PrivateExample {$/;"	c
+RecursivePartials	mustache.php/examples/recursive_partials/RecursivePartials.php	/^class RecursivePartials extends Mustache {$/;"	c
+RegisterExample	Reflection-Router/tests/RegisterExample.php	/^class RegisterExample {$/;"	c
+SectionIteratorObjects	mustache.php/examples/section_iterator_objects/SectionIteratorObjects.php	/^class SectionIteratorObjects extends Mustache {$/;"	c
+SectionMagicObjects	mustache.php/examples/section_magic_objects/SectionMagicObjects.php	/^class SectionMagicObjects extends Mustache {$/;"	c
+SectionObject	mustache.php/examples/section_objects/SectionObjects.php	/^class SectionObject {$/;"	c
+SectionObjects	mustache.php/examples/section_objects/SectionObjects.php	/^class SectionObjects extends Mustache {$/;"	c
+Sections	mustache.php/examples/sections/Sections.php	/^class Sections extends Mustache {$/;"	c
+SectionsNested	mustache.php/examples/sections_nested/SectionsNested.php	/^class SectionsNested extends Mustache {$/;"	c
+Simple	mustache.php/examples/simple/Simple.php	/^class Simple extends Mustache {$/;"	c
+SlackerMustache	mustache.php/test/MustacheExceptionTest.php	/^class SlackerMustache extends Mustache {$/;"	c
+TestableMustache	mustache.php/test/MustacheExceptionTest.php	/^class TestableMustache extends Mustache {$/;"	c
+USAGE	mustache.php/bin/create_example.php	/^define('USAGE', <<<USAGE$/;"	d
+UTF8	mustache.php/examples/utf8_unescaped/UTF8Unescaped.php	/^class UTF8 extends Mustache {$/;"	c
+UTF8Unescaped	mustache.php/examples/utf8/UTF8.php	/^class UTF8Unescaped extends Mustache {$/;"	c
+Unescaped	mustache.php/examples/unescaped/Unescaped.php	/^class Unescaped extends Mustache {$/;"	c
+VoteManager	class/VoteManager.php	/^class VoteManager extends ContentManagerAbstract{$/;"	c
+Whitespace	mustache.php/examples/whitespace/Whitespace.php	/^class Whitespace extends Mustache {$/;"	c
+__call	mustache.php/test/MustacheCallTest.php	/^	public function __call($method, $args) {$/;"	f
+__clone	class/ConnectDatabase.php	/^	private function __clone(){$/;"	f
+__clone	mustache.php/Mustache.php	/^	public function __clone() {$/;"	f
+__construct	Reflection-Router/ReflectionRouter.php	/^	public function __construct($action, $module, $targetClass, \\Exception $e = NULL) {$/;"	f
+__construct	Reflection-Router/ReflectionRouter.php	/^	public function __construct($class, $method, \\Exception $e = NULL) {$/;"	f
+__construct	Reflection-Router/ReflectionRouter.php	/^	public function __construct($className) {$/;"	f
+__construct	Reflection-Router/ReflectionRouter.php	/^	public function __construct($message, \\Exception $e = NULL) {$/;"	f
+__construct	Reflection-Router/ReflectionRouter.php	/^	public function __construct($module, $targetClass, \\Exception $e = NULL) {$/;"	f
+__construct	Reflection-Router/ReflectionRouter.php	/^	public function __construct($namespace) {$/;"	f
+__construct	Reflection-Router/tests/MessageExample.php	/^	public function __construct($ownerId) {$/;"	f
+__construct	Reflection-Router/tests/PrivateExample.php	/^	private function __construct() {$/;"	f
+__construct	Reflection-Router/tests/RegisterExample.php	/^	public function __construct($color) {$/;"	f
+__construct	Reflection-Router/tests/RegisterExample.php	/^	public function __construct($email) {$/;"	f
+__construct	class/Category.php	/^	public function __construct(){$/;"	f
+__construct	class/ConnectDatabase.php	/^	private function __construct() {$/;"	f
+__construct	class/ContentManagerAbstract.php	/^	function __construct(){$/;"	f
+__construct	class/JsonRequest.php	/^	public function __construct() {$/;"	f
+__construct	class/Person.php	/^	public function __construct($facebookId){$/;"	f
+__construct	class/VoteManager.php	/^	public function __construct($ideaId, $userId){$/;"	f
+__construct	module/category.php	/^	public function __construct() {$/;"	f
+__construct	module/comments.php	/^	public function __construct($id) {$/;"	f
+__construct	mustache.php/Mustache.php	/^	public function __construct($template = null, $view = null, $partials = null, array $options = null) {$/;"	f
+__construct	mustache.php/MustacheLoader.php	/^	public function __construct($baseDir, $extension = 'mustache') {$/;"	f
+__construct	mustache.php/examples/grand_parent_context/GrandParentContext.php	/^	public function __construct() {$/;"	f
+__construct	mustache.php/examples/partials_with_view_class/PartialsWithViewClass.php	/^	public function __construct($template = null, $view = null, $partials = null) {$/;"	f
+__construct	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function __construct($template = null, $view = null, $partials = null) {$/;"	f
+__construct	mustache.php/test/MustacheObjectSectionTest.php	/^	public function __construct() {$/;"	f
+__construct	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  public function __construct($offset = 0)$/;"	f
+__get	mustache.php/examples/section_magic_objects/SectionMagicObjects.php	/^	public function __get($key) {$/;"	f
+__get	mustache.php/test/MustacheObjectSectionTest.php	/^	public function __get($name) {$/;"	f
+__isset	mustache.php/examples/section_magic_objects/SectionMagicObjects.php	/^	public function __isset($key) {$/;"	f
+__isset	mustache.php/test/MustacheObjectSectionTest.php	/^	public function __isset($name) {$/;"	f
+__toString	mustache.php/Mustache.php	/^	public function __toString() {$/;"	f
+__trans	mustache.php/examples/i18n/I18n.php	/^    public static function __trans($text) {$/;"	f
+_changeDelimiter	mustache.php/Mustache.php	/^	protected function _changeDelimiter($tag_name, $leading, $trailing) {$/;"	f
+_findSection	mustache.php/Mustache.php	/^	protected function _findSection($template) {$/;"	f
+_findVariableInContext	mustache.php/Mustache.php	/^	protected function _findVariableInContext($tag_name, $context) {$/;"	f
+_forEach	mustache.js/mustache.js	/^  var _forEach = Array.prototype.forEach;$/;"	v
+_getPartial	mustache.php/Mustache.php	/^	protected function _getPartial($tag_name) {$/;"	f
+_getPragmaOptions	mustache.php/Mustache.php	/^	protected function _getPragmaOptions($pragma_name) {$/;"	f
+_getVariable	mustache.php/Mustache.php	/^	protected function _getVariable($tag_name) {$/;"	f
+_hasPragma	mustache.php/Mustache.php	/^	protected function _hasPragma($pragma_name) {$/;"	f
+_isArray	mustache.js/mustache.js	/^  var _isArray = Array.isArray;$/;"	v
+_popContext	mustache.php/Mustache.php	/^	protected function _popContext() {$/;"	f
+_preparePragmaRegEx	mustache.php/Mustache.php	/^	protected function _preparePragmaRegEx($otag, $ctag) {$/;"	f
+_prepareSectionRegEx	mustache.php/Mustache.php	/^	protected function _prepareSectionRegEx($otag, $ctag) {$/;"	f
+_prepareTagRegEx	mustache.php/Mustache.php	/^	protected function _prepareTagRegEx($otag, $ctag, $first = false) {$/;"	f
+_pushContext	mustache.php/Mustache.php	/^	protected function _pushContext(&$local_context) {$/;"	f
+_renderComment	mustache.php/Mustache.php	/^	protected function _renderComment($tag_name, $leading, $trailing) {$/;"	f
+_renderEscaped	mustache.php/Mustache.php	/^	protected function _renderEscaped($tag_name, $leading, $trailing) {$/;"	f
+_renderPartial	mustache.php/Mustache.php	/^	protected function _renderPartial($tag_name, $leading, $trailing) {$/;"	f
+_renderPragma	mustache.php/Mustache.php	/^	protected function _renderPragma($matches) {$/;"	f
+_renderPragmas	mustache.php/Mustache.php	/^	protected function _renderPragmas($template) {$/;"	f
+_renderTag	mustache.php/Mustache.php	/^	protected function _renderTag($modifier, $tag_name, $leading, $trailing) {$/;"	f
+_renderTags	mustache.php/Mustache.php	/^	protected function _renderTags($template) {$/;"	f
+_renderTemplate	mustache.php/Mustache.php	/^	protected function _renderTemplate($template) {$/;"	f
+_renderUnescaped	mustache.php/Mustache.php	/^	protected function _renderUnescaped($tag_name, $leading, $trailing) {$/;"	f
+_setOptions	mustache.php/Mustache.php	/^	protected function _setOptions(array $options) {$/;"	f
+_stringHasR	mustache.php/Mustache.php	/^	protected function _stringHasR($str) {$/;"	f
+_throwsException	mustache.php/Mustache.php	/^	protected function _throwsException($exception) {$/;"	f
+_trim	mustache.js/mustache.js	/^  var _trim = String.prototype.trim;$/;"	v
+_varIsCallable	mustache.php/Mustache.php	/^	protected function _varIsCallable($var) {$/;"	f
+_varIsIterable	mustache.php/Mustache.php	/^	protected function _varIsIterable($var) {$/;"	f
+action	Reflection-Router/tests/PrivateExample.php	/^	public function action() {$/;"	f
+ampersand_escape.message	mustache.js/spec/_files/ampersand_escape.js	/^var ampersand_escape = {$/;"	p
+apostrophe.apos	mustache.js/spec/_files/apostrophe.js	/^var apostrophe = {'apos': "'", 'control':'X'};$/;"	p
+apostrophe.control	mustache.js/spec/_files/apostrophe.js	/^var apostrophe = {'apos': "'", 'control':'X'};$/;"	p
+array_of_strings.array_of_strings	mustache.js/spec/_files/array_of_strings.js	/^var array_of_strings = {array_of_strings: ['hello', 'world']};$/;"	p
+as	mustache.php/examples/partials_with_view_class/PartialsWithViewClass.php	/^		\/\/ Use an object of an arbitrary class as a View for this Mustache instance:$/;"	c
+assumes	mustache.php/test/MustacheTest.php	/^ * This class assumes an example directory exists at `..\/examples` with the following structure:$/;"	c
+backslashes.value	mustache.js/spec/_files/backslashes.js	/^var backslashes = {$/;"	p
+baz	mustache.php/examples/whitespace/Whitespace.php	/^	public function baz() {$/;"	f
+bug_11_eating_whitespace.tag	mustache.js/spec/_files/bug_11_eating_whitespace.js	/^var bug_11_eating_whitespace = {$/;"	p
+buildPath	mustache.php/bin/create_example.php	/^function buildPath($directory, $filename = null,  $extension = null) {$/;"	f
+category	module/category.php	/^class category extends \\MissedIdea\\JsonRequest {$/;"	c
+changing_delimiters.bar	mustache.js/spec/_files/changing_delimiters.js	/^  "foo": "foooooooooooooo",$/;"	p
+changing_delimiters.foo	mustache.js/spec/_files/changing_delimiters.js	/^var changing_delimiters = {$/;"	p
+checkVote	class/VoteManager.php	/^	public function checkVote(){$/;"	f
+cleanup	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function cleanup($value)$/;"	f
+clone	mustache.php/Mustache.php	/^	 * Mustache class clone method.$/;"	c
+colorscheme	Reflection-Router/tests/RegisterExample.php	/^	public function colorscheme(ColorSchemeExample $color) {$/;"	f
+comments	module/comments.php	/^class comments extends \\MissedIdea\\JsonRequest {$/;"	c
+comments.title	mustache.js/spec/_files/comments.js	/^var comments = {$/;"	m
+complex.header	mustache.js/spec/_files/complex.js	/^var complex = {$/;"	m
+complex.item	mustache.js/spec/_files/complex.js	/^  },$/;"	p
+compose	Reflection-Router/tests/MessageExample.php	/^	public function compose($title, $message) {$/;"	f
+constants	mustache.php/Mustache.php	/^	 * Expects exceptions to be MustacheException error codes (i.e. class constants).$/;"	c
+constructor	mustache.php/Mustache.php	/^	 * Defaults to the template and view passed to the class constructor unless a new one is provided.$/;"	c
+constructor	mustache.php/Mustache.php	/^	 * Mustache class constructor.$/;"	c
+constructorOptions	mustache.php/test/MustacheTest.php	/^	public function constructorOptions() {$/;"	f
+context_lookup.outer	mustache.js/spec/_files/context_lookup.js	/^var context_lookup = {$/;"	p
+could	class/VoteManager.php	/^* This class could use some work  $/;"	c
+createDirectory	mustache.php/bin/create_example.php	/^function createDirectory($directory) {$/;"	f
+createFile	mustache.php/bin/create_example.php	/^function createFile($directory, $filename, $extension, $content = "") {$/;"	f
+delete	Reflection-Router/tests/MessageExample.php	/^	public function delete($id = NULL) {$/;"	f
+delimiters.first	mustache.js/spec/_files/delimiters.js	/^var delimiters = {$/;"	p
+delimiters.fourth	mustache.js/spec/_files/delimiters.js	/^  third: "Then, surprisingly, it worked the third time.",$/;"	p
+delimiters.second	mustache.js/spec/_files/delimiters.js	/^  first: "It worked the first time.",$/;"	p
+delimiters.third	mustache.js/spec/_files/delimiters.js	/^  second: "And it worked the second time.",$/;"	p
+disappearing_whitespace.bedrooms	mustache.js/spec/_files/disappearing_whitespace.js	/^var disappearing_whitespace = {$/;"	p
+disappearing_whitespace.total	mustache.js/spec/_files/disappearing_whitespace.js	/^  bedrooms: true,$/;"	p
+dot_notation.authors	mustache.js/spec/_files/dot_notation.js	/^  name: "A Book",$/;"	p
+dot_notation.name	mustache.js/spec/_files/dot_notation.js	/^var dot_notation = {$/;"	p
+double_render.bar	mustache.js/spec/_files/double_render.js	/^  foo: true,$/;"	p
+double_render.foo	mustache.js/spec/_files/double_render.js	/^var double_render = {$/;"	p
+double_render.win	mustache.js/spec/_files/double_render.js	/^  bar: "{{win}}",$/;"	p
+dump	mustache.php/test/lib/yaml/lib/sfYaml.php	/^  public static function dump($array, $inline = 2)$/;"	f
+dump	mustache.php/test/lib/yaml/lib/sfYamlDumper.php	/^  public function dump($input, $inline = 0, $indent = 0)$/;"	f
+dump	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static public function dump($value)$/;"	f
+dumpArray	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static protected function dumpArray($value)$/;"	f
+echoln	mustache.php/test/lib/yaml/lib/sfYaml.php	/^function echoln($string)$/;"	f
+empty_list.jobs	mustache.js/spec/_files/empty_list.js	/^var empty_list = {$/;"	p
+empty_string.child	mustache.js/spec/_files/empty_string.js	/^  description: "That is all!",$/;"	p
+empty_string.description	mustache.js/spec/_files/empty_string.js	/^var empty_string = {$/;"	p
+enemies	mustache.php/examples/sections_nested/SectionsNested.php	/^	public function enemies() {$/;"	f
+epochSeconds	scorealg.php	/^	function epochSeconds($dateArg){$/;"	f
+error_not_found.bar	mustache.js/spec/_files/error_not_found.js	/^var error_not_found = {bar: 2};/;"	p
+escapeMap."	mustache.js/mustache.js	/^    ">": "&gt;",$/;"	p
+escapeMap.&	mustache.js/mustache.js	/^  var escapeMap = {$/;"	p
+escapeMap.'	mustache.js/mustache.js	/^    '"': '&quot;',$/;"	p
+escapeMap.<	mustache.js/mustache.js	/^    "&": "&amp;",$/;"	p
+escapeMap.>	mustache.js/mustache.js	/^    "<": "&lt;",$/;"	p
+escaped.entities	mustache.js/spec/_files/escaped.js	/^  },$/;"	p
+escaped.title	mustache.js/spec/_files/escaped.js	/^var escaped = {$/;"	m
+evaluateScalar	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static protected function evaluateScalar($scalar)$/;"	f
+exports.to_html	mustache.js/mustache.js	/^  exports.clearCache = clearCache;$/;"	f
+for	mustache.php/Mustache.php	/^	 * Helper function for setting options from constructor args.$/;"	f
+for	mustache.php/Mustache.php	/^	 * Wrap the render() function for string conversion.$/;"	f
+forEach	mustache.js/mustache.js	/^  if (_forEach) {$/;"	f
+forEach	mustache.js/mustache.js	/^  var forEach;$/;"	v
+form	Reflection-Router/tests/RegisterExample.php	/^	public function form() {$/;"	f
+get	module/category.php	/^	public function get($category) {$/;"	f
+get	module/comments.php	/^	public function get() {$/;"	f
+getActionParams	Reflection-Router/ReflectionRouter.php	/^	public function getActionParams($action, $input = array()) {$/;"	f
+getCategories	class/Category.php	/^	public function getCategories(){$/;"	f
+getCharset	mustache.php/test/MustacheTest.php	/^	public function getCharset() {$/;"	f
+getComments	class/CommentManager.php	/^	public function getComments($ideaId, $orderBy="date_posted", $orderType="DESC", $limit="500000") {	 $/;"	f
+getCurrentLineIndentation	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function getCurrentLineIndentation()$/;"	f
+getDefaultValue	Reflection-Router/ReflectionRouter.php	/^	public function getDefaultValue();$/;"	f
+getDefaultValue	Reflection-Router/tests/RegisterExample.php	/^	public function getDefaultValue() {$/;"	f
+getDelimiters	mustache.php/test/MustacheTest.php	/^	public function getDelimiters() {$/;"	f
+getExamples	mustache.php/test/MustacheTest.php	/^	public function getExamples() {$/;"	f
+getFacebookId	class/Person.php	/^	public function getFacebookId(){$/;"	f
+getIdeas	class/IdeaManager.php	/^	public function getIdeas($categoryId="all", $orderBy="date_posted", $descending=True, $limit="50000") {$/;"	f
+getInstance	class/ConnectDatabase.php	/^	public static function getInstance() {$/;"	f
+getLowerCaseName	mustache.php/bin/create_example.php	/^function getLowerCaseName($name) {$/;"	f
+getMethodParams	Reflection-Router/ReflectionRouter.php	/^	private function getMethodParams(\\ReflectionMethod $reflectedMethod, $input) {$/;"	f
+getModuleParams	Reflection-Router/ReflectionRouter.php	/^	public function getModuleParams($input = array()) {$/;"	f
+getNextEmbedBlock	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function getNextEmbedBlock($indentation = null)$/;"	f
+getPragmas	mustache.php/test/MustacheTest.php	/^	public function getPragmas() {$/;"	f
+getRealCurrentLineNb	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function getRealCurrentLineNb()$/;"	f
+getSpecVersion	mustache.php/test/lib/yaml/lib/sfYaml.php	/^  static public function getSpecVersion()$/;"	f
+getThrownExceptions	mustache.php/test/MustacheExceptionTest.php	/^	public function getThrownExceptions() {$/;"	f
+getTimestampRegex	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static protected function getTimestampRegex()$/;"	f
+getUpperCaseName	mustache.php/bin/create_example.php	/^function getUpperCaseName($name) {$/;"	f
+getUserId	class/Person.php	/^	public function getUserId(){$/;"	f
+getUserName	class/Person.php	/^	public function getUserName(){$/;"	f
+has	Interface.php	/^	\/\/really easily. The class has already been written. (VoteManagerEasy)$/;"	c
+hasDefaultValue	Reflection-Router/ReflectionRouter.php	/^	public function hasDefaultValue();$/;"	f
+hasDefaultValue	Reflection-Router/tests/RegisterExample.php	/^	public function hasDefaultValue() {$/;"	f
+higher_order_sections.bolder	mustache.js/spec/_files/higher_order_sections.js	/^  "helper": "To tinker?",$/;"	m
+higher_order_sections.helper	mustache.js/spec/_files/higher_order_sections.js	/^  "name": "Tater",$/;"	p
+higher_order_sections.name	mustache.js/spec/_files/higher_order_sections.js	/^var higher_order_sections = {$/;"	p
+home	module/home.php	/^class home {$/;"	c
+in	class/VoteManager.php	/^			throw new Exception("Error in checkVote() function in VoteManager class");  $/;"	f
+included_tag.html	mustache.js/spec/_files/included_tag.js	/^var included_tag = {$/;"	p
+index	module/category.php	/^	public function index() {$/;"	f
+index	module/home.php	/^	public function index() {$/;"	f
+insertComment	class/CommentManager.php	/^	public function insertComment($userId, $ideaId, $commentText) {$/;"	f
+insertIdea	class/IdeaManager.php	/^	public function insertIdea($userId, $ideaText, $categoryId) {$/;"	f
+interpolationData	mustache.php/test/MustacheTest.php	/^	public function interpolationData() {$/;"	f
+interpolationLambda	mustache.php/test/MustacheInjectionTest.php	/^    public function interpolationLambda() {$/;"	f
+inverted_section.repos	mustache.js/spec/_files/inverted_section.js	/^var inverted_section =  {$/;"	p
+isArray	mustache.js/mustache.js	/^  var isArray;$/;"	v
+isArray	mustache.js/mustache.js	/^  } else {$/;"	f
+isCurrentLineBlank	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function isCurrentLineBlank()$/;"	f
+isCurrentLineComment	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function isCurrentLineComment()$/;"	f
+isCurrentLineEmpty	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function isCurrentLineEmpty()$/;"	f
+isEmpty	mustache.php/examples/complex/complex.php	/^	public function isEmpty() {$/;"	f
+isNextLineIndented	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function isNextLineIndented()$/;"	f
+isValid	Reflection-Router/ReflectionRouter.php	/^	public function isValid();$/;"	f
+isValid	Reflection-Router/tests/RegisterExample.php	/^	public function isValid() {$/;"	f
+isWhitespace	mustache.js/mustache.js	/^  function isWhitespace(string) {$/;"	f
+keys_with_questionmarks.person?	mustache.js/spec/_files/keys_with_questionmarks.js	/^var keys_with_questionmarks = {$/;"	p
+lastname	Reflection-Router/tests/RegisterExample.php	/^	public function lastname($lastname = NULL) {$/;"	f
+load	Reflection-Router/tests/MessageExample.php	/^	public function load(\\SplFileInfo $file = NULL) {$/;"	f
+load	mustache.php/test/lib/yaml/lib/sfYaml.php	/^  public static function load($input)$/;"	f
+load	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static public function load($value)$/;"	f
+loadCommentSpec	mustache.php/test/MustacheSpecTest.php	/^	public function loadCommentSpec() {$/;"	f
+loadDelimitersSpec	mustache.php/test/MustacheSpecTest.php	/^	public function loadDelimitersSpec() {$/;"	f
+loadInterpolationSpec	mustache.php/test/MustacheSpecTest.php	/^	public function loadInterpolationSpec() {$/;"	f
+loadInvertedSpec	mustache.php/test/MustacheSpecTest.php	/^	public function loadInvertedSpec() {$/;"	f
+loadLambdasSpec	mustache.php/test/MustacheSpecTest.php	/^	public function loadLambdasSpec() {$/;"	f
+loadPartialsSpec	mustache.php/test/MustacheSpecTest.php	/^	public function loadPartialsSpec() {$/;"	f
+loadSectionsSpec	mustache.php/test/MustacheSpecTest.php	/^	public function loadSectionsSpec() {$/;"	f
+loadSpec	mustache.php/test/MustacheSpecTest.php	/^	protected function loadSpec($name) {$/;"	f
+load_test	mustache.js/spec/mustache_spec.rb	/^def load_test(name)$/;"	f
+main	mustache.php/bin/create_example.php	/^function main($example_name) {$/;"	f
+method	mustache.php/Mustache.php	/^	 * any class method named $tag_name. Failing all of the above, this method will$/;"	c
+middle	mustache.php/examples/delimiters/Delimiters.php	/^	public function middle() {$/;"	f
+middle	mustache.php/examples/section_iterator_objects/SectionIteratorObjects.php	/^	public function middle() {$/;"	f
+middle	mustache.php/examples/section_magic_objects/SectionMagicObjects.php	/^	public function middle() {$/;"	f
+middle	mustache.php/examples/section_objects/SectionObjects.php	/^	public function middle() {$/;"	f
+middle	mustache.php/examples/sections/Sections.php	/^	public function middle() {$/;"	f
+moveToNextLine	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function moveToNextLine()$/;"	f
+moveToPreviousLine	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function moveToPreviousLine()$/;"	f
+name	Reflection-Router/tests/RegisterExample.php	/^	public function name($name = 'Anonymous') {$/;"	f
+name	mustache.php/Mustache.php	/^	 *  3. a class name and the name of a public static function, i.e. `array('SomeClass', 'methodName')`$/;"	c
+name	mustache.php/test/MustacheObjectSectionTest.php	/^	public function name() {$/;"	f
+nested_iterating.inner	mustache.js/spec/_files/nested_iterating.js	/^var nested_iterating = {$/;"	p
+nesting.foo	mustache.js/spec/_files/nesting.js	/^var nesting = {$/;"	p
+nesting_same_name.items	mustache.js/spec/_files/nesting_same_name.js	/^var nesting_same_name = {$/;"	p
+notEmpty	mustache.php/examples/complex/complex.php	/^	public function notEmpty() {$/;"	f
+null_string.binary	mustache.js/spec/_files/null_string.js	/^  glytch: true,$/;"	p
+null_string.glytch	mustache.js/spec/_files/null_string.js	/^  name: "Elise",$/;"	p
+null_string.name	mustache.js/spec/_files/null_string.js	/^var null_string = {$/;"	p
+null_string.numeric	mustache.js/spec/_files/null_string.js	/^  undef: undefined,$/;"	m
+null_string.undef	mustache.js/spec/_files/null_string.js	/^  value: null,$/;"	p
+null_string.value	mustache.js/spec/_files/null_string.js	/^  binary: false,$/;"	p
+offsetExists	mustache.php/MustacheLoader.php	/^	public function offsetExists($offset) {$/;"	f
+offsetExists	mustache.php/test/MustacheLoaderTest.php	/^	public function offsetExists($offset) {$/;"	f
+offsetGet	mustache.php/MustacheLoader.php	/^	public function offsetGet($offset) {$/;"	f
+offsetGet	mustache.php/test/MustacheLoaderTest.php	/^	public function offsetGet($offset) {$/;"	f
+offsetSet	mustache.php/MustacheLoader.php	/^	public function offsetSet($offset, $value) {$/;"	f
+offsetSet	mustache.php/test/MustacheLoaderTest.php	/^	public function offsetSet($offset, $value) {}$/;"	f
+offsetUnset	mustache.php/MustacheLoader.php	/^	public function offsetUnset($offset) {$/;"	f
+offsetUnset	mustache.php/test/MustacheLoaderTest.php	/^	public function offsetUnset($offset) {}$/;"	f
+out	mustache.php/bin/create_example.php	/^function out($value) {$/;"	f
+parse	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  public function parse($value)$/;"	f
+parseFoldedScalar	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function parseFoldedScalar($separator, $indicator = '', $indentation = 0)$/;"	f
+parseMapping	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static protected function parseMapping($mapping, &$i = 0)$/;"	f
+parseQuotedScalar	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static protected function parseQuotedScalar($scalar, &$i)$/;"	f
+parseScalar	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static public function parseScalar($scalar, $delimiters = null, $stringDelimiters = array('"', "'"), &$i = 0, $evaluate = true)$/;"	f
+parseSequence	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^  static protected function parseSequence($sequence, &$i = 0)$/;"	f
+parseValue	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^  protected function parseValue($value)$/;"	f
+partial_array.array	mustache.js/spec/_files/partial_array.js	/^var partial_array = {$/;"	p
+partial_array_of_partials.numbers	mustache.js/spec/_files/partial_array_of_partials.js	/^var partial_array_of_partials = { $/;"	p
+partial_array_of_partials_implicit.numbers	mustache.js/spec/_files/partial_array_of_partials_implicit.js	/^var partial_array_of_partials_implicit = { $/;"	p
+partial_empty.foo	mustache.js/spec/_files/partial_empty.js	/^var partial_empty = {$/;"	p
+partial_recursion.kids	mustache.js/spec/_files/partial_recursion.js	/^  name: '1',$/;"	p
+partial_recursion.name	mustache.js/spec/_files/partial_recursion.js	/^var partial_recursion = {$/;"	p
+partial_template.again	mustache.js/spec/_files/partial_template.js	/^  },$/;"	p
+partial_template.title	mustache.js/spec/_files/partial_template.js	/^var partial_template = {$/;"	m
+partial_view.farewell	mustache.js/spec/_files/partial_view.js	/^  },$/;"	m
+partial_view.greeting	mustache.js/spec/_files/partial_view.js	/^var partial_view = {$/;"	m
+partial_view.in_ca	mustache.js/spec/_files/partial_view.js	/^  },$/;"	p
+partial_view.name	mustache.js/spec/_files/partial_view.js	/^  },$/;"	p
+partial_view.taxed_value	mustache.js/spec/_files/partial_view.js	/^  value: 10000,$/;"	m
+partial_view.value	mustache.js/spec/_files/partial_view.js	/^  name: "Chris",$/;"	p
+partial_whitespace.farewell	mustache.js/spec/_files/partial_whitespace.js	/^  },$/;"	m
+partial_whitespace.greeting	mustache.js/spec/_files/partial_whitespace.js	/^var partial_whitespace = {$/;"	m
+partial_whitespace.in_ca	mustache.js/spec/_files/partial_whitespace.js	/^  },$/;"	p
+partial_whitespace.name	mustache.js/spec/_files/partial_whitespace.js	/^  },$/;"	p
+partial_whitespace.taxed_value	mustache.js/spec/_files/partial_whitespace.js	/^  value: 10000,$/;"	m
+partial_whitespace.value	mustache.js/spec/_files/partial_whitespace.js	/^  name: "Chris",$/;"	p
+pathName	mustache.php/MustacheLoader.php	/^	protected function pathName($file) {$/;"	f
+perform	Reflection-Router/ReflectionRouter.php	/^	public function perform($module, $action, array $input = array()) {$/;"	f
+poorlyNestedSections	mustache.php/test/MustacheTest.php	/^	public function poorlyNestedSections() {$/;"	f
+prepareLambdasSpec	mustache.php/test/MustacheSpecTest.php	/^	protected function prepareLambdasSpec($data) {$/;"	f
+printArray	class/CommentManager.php	/^	function printArray($comments){$/;"	f
+printArray	class/IdeaManager.php	/^	public function printArray($ideas) {$/;"	f
+printJson	class/CommentManager.php	/^	function printJson($comments) {$/;"	f
+printJson	class/ContentManagerAbstract.php	/^	abstract public function printJson($dbr);$/;"	f
+printJson	class/IdeaManager.php	/^	public function printJson($ideas){$/;"	f
+qux	mustache.php/examples/whitespace/Whitespace.php	/^	public function qux() {$/;"	f
+recursion_with_same_names.description	mustache.js/spec/_files/recursion_with_same_names.js	/^  name: 'name',$/;"	p
+recursion_with_same_names.name	mustache.js/spec/_files/recursion_with_same_names.js	/^var recursion_with_same_names = {$/;"	p
+recursion_with_same_names.terms	mustache.js/spec/_files/recursion_with_same_names.js	/^  description: 'desc',$/;"	p
+related	Reflection-Router/tests/MessageExample.php	/^	public function related() {$/;"	f
+render	mustache.php/Mustache.php	/^	public function render($template = null, $view = null, $partials = null) {$/;"	f
+reuse_of_enumerables.terms	mustache.js/spec/_files/reuse_of_enumerables.js	/^var reuse_of_enumerables = {$/;"	p
+run_js	mustache.js/spec/mustache_spec.rb	/^def run_js(runner, js)$/;"	f
+score	scorealg.php	/^	function score($votes, $timeStamp){$/;"	f
+section	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^			$this->markTestSkipped('Unable to test anonymous function section callbacks in PHP < 5.3');$/;"	f
+sectionLambda	mustache.php/test/MustacheInjectionTest.php	/^    public function sectionLambda($content) {$/;"	f
+section_as_context.a_object	mustache.js/spec/_files/section_as_context.js	/^var section_as_context = {$/;"	p
+sendIdeas	module/category.php	/^	protected function sendIdeas($ideas) {$/;"	f
+sendResponse	class/JsonRequest.php	/^	protected function sendResponse($data) {$/;"	f
+setSpecVersion	mustache.php/test/lib/yaml/lib/sfYaml.php	/^  static public function setSpecVersion($version)$/;"	f
+setUp	Reflection-Router/tests/Action.php	/^	public function setUp() {$/;"	f
+setUp	mustache.php/test/MustacheExceptionTest.php	/^	public function setUp() {$/;"	f
+setUp	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function setUp() {$/;"	f
+sfYaml	mustache.php/test/lib/yaml/lib/sfYaml.php	/^class sfYaml$/;"	c
+sfYamlDumper	mustache.php/test/lib/yaml/lib/sfYamlDumper.php	/^class sfYamlDumper$/;"	c
+sfYamlInline	mustache.php/test/lib/yaml/lib/sfYamlInline.php	/^class sfYamlInline$/;"	c
+sfYamlParser	mustache.php/test/lib/yaml/lib/sfYamlParser.php	/^class sfYamlParser$/;"	c
+simple.in_ca	mustache.js/spec/_files/simple.js	/^  },$/;"	p
+simple.name	mustache.js/spec/_files/simple.js	/^var simple = {$/;"	p
+simple.taxed_value	mustache.js/spec/_files/simple.js	/^  value: 10000,$/;"	m
+simple.value	mustache.js/spec/_files/simple.js	/^  name: "Chris",$/;"	p
+spaceRe	mustache.js/mustache.js	/^  var spaceRe = \/^\\s*$\/;$/;"	v
+staticTrim	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public static function staticTrim($text) {$/;"	f
+string_as_context.a_list	mustache.js/spec/_files/string_as_context.js	/^    a_string: 'aa',$/;"	p
+string_as_context.a_string	mustache.js/spec/_files/string_as_context.js	/^var string_as_context = {$/;"	p
+submit	Reflection-Router/tests/RegisterExample.php	/^	public function submit(EmailAddressExample $email) {$/;"	f
+t	mustache.php/examples/double_section/DoubleSection.php	/^	public function t() {$/;"	f
+taxed_value	mustache.php/examples/simple/Simple.php	/^	public function taxed_value() {$/;"	f
+testAccessOutsideNamespace	Reflection-Router/tests/Action.php	/^	public function testAccessOutsideNamespace() {$/;"	f
+testActionCorrectOrder	Reflection-Router/tests/ActionMap.php	/^	public function testActionCorrectOrder(ActionMap $actionMap) {$/;"	f
+testActionDefaultNecessary	Reflection-Router/tests/ActionMap.php	/^	public function testActionDefaultNecessary(ActionMap $actionMap) {$/;"	f
+testActionDefaultUnncessary	Reflection-Router/tests/ActionMap.php	/^	public function testActionDefaultUnncessary(ActionMap $actionMap) {$/;"	f
+testActionEmptyFail	Reflection-Router/tests/ActionMap.php	/^	public function testActionEmptyFail(ActionMap $actionMap) {$/;"	f
+testActionEmptySuccess	Reflection-Router/tests/ActionMap.php	/^	public function testActionEmptySuccess(ActionMap $actionMap) {$/;"	f
+testActionInaccessible	Reflection-Router/tests/ActionMap.php	/^	public function testActionInaccessible(ActionMap $actionMap) {$/;"	f
+testActionMissing	Reflection-Router/tests/ActionMap.php	/^	public function testActionMissing(ActionMap $actionMap) {$/;"	f
+testActionNativeClassHint	Reflection-Router/tests/ActionMap.php	/^	public function testActionNativeClassHint(ActionMap $actionMap) {$/;"	f
+testActionNativeClassHintDefault	Reflection-Router/tests/ActionMap.php	/^	public function testActionNativeClassHintDefault(ActionMap $actionMap) {$/;"	f
+testActionNotFound	Reflection-Router/tests/Action.php	/^	public function testActionNotFound() {$/;"	f
+testActionParamsIncorrect	Reflection-Router/tests/Action.php	/^	public function testActionParamsIncorrect() {$/;"	f
+testActionSuccess	Reflection-Router/tests/Action.php	/^	public function testActionSuccess() {$/;"	f
+testActionUnnecessaryInput	Reflection-Router/tests/ActionMap.php	/^	public function testActionUnnecessaryInput(ActionMap $actionMap) {$/;"	f
+testAnonymousFunctionSectionCallback	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function testAnonymousFunctionSectionCallback() {$/;"	f
+testBasicObject	mustache.php/test/MustacheObjectSectionTest.php	/^	public function testBasicObject() {$/;"	f
+testCallEatsContext	mustache.php/test/MustacheCallTest.php	/^	public function testCallEatsContext() {$/;"	f
+testClassExistsMessage	Reflection-Router/tests/ActionMap.php	/^	public function testClassExistsMessage() {$/;"	f
+testClassExistsRegister	Reflection-Router/tests/ActionMap.php	/^	public function testClassExistsRegister() {$/;"	f
+testClassMissing	Reflection-Router/tests/ActionMap.php	/^	public function testClassMissing() {$/;"	f
+testCommentSpec	mustache.php/test/MustacheSpecTest.php	/^	public function testCommentSpec($desc, $template, $data, $partials, $expected) {$/;"	f
+testConstructorInaccessible	Reflection-Router/tests/ActionMap.php	/^	public function testConstructorInaccessible() {$/;"	f
+testConstructorInvalidPragmaOptionsThrowExceptions	mustache.php/test/MustacheTest.php	/^	public function testConstructorInvalidPragmaOptionsThrowExceptions() {$/;"	f
+testConstructorOptions	mustache.php/test/MustacheTest.php	/^	public function testConstructorOptions($options, $charset, $delimiters, $pragmas) {$/;"	f
+testCrazyDelimiters	mustache.php/test/MustacheTest.php	/^	public function testCrazyDelimiters() {$/;"	f
+testDelimitersSpec	mustache.php/test/MustacheSpecTest.php	/^	public function testDelimitersSpec($desc, $template, $data, $partials, $expected) {$/;"	f
+testDoesntThrowUnclosedSectionException	mustache.php/test/MustacheExceptionTest.php	/^	public function testDoesntThrowUnclosedSectionException() {$/;"	f
+testDoesntThrowUnexpectedCloseSectionException	mustache.php/test/MustacheExceptionTest.php	/^	public function testDoesntThrowUnexpectedCloseSectionException() {$/;"	f
+testDoesntThrowUnknownPartialException	mustache.php/test/MustacheExceptionTest.php	/^	public function testDoesntThrowUnknownPartialException() {$/;"	f
+testDoubleRenderMustacheTags	mustache.php/test/MustacheTest.php	/^	public function testDoubleRenderMustacheTags($template, $context, $expected) {$/;"	f
+testExamples	mustache.php/test/MustacheTest.php	/^	public function testExamples($class, $template, $output) {$/;"	f
+testGetPragmaOptionsThrowsExceptionsIfItThinksYouHaveAPragmaButItTurnsOutYouDont	mustache.php/test/MustacheExceptionTest.php	/^	public function testGetPragmaOptionsThrowsExceptionsIfItThinksYouHaveAPragmaButItTurnsOutYouDont() {$/;"	f
+testInterpolationInjection	mustache.php/test/MustacheInjectionTest.php	/^    public function testInterpolationInjection() {$/;"	f
+testInterpolationSpec	mustache.php/test/MustacheSpecTest.php	/^	public function testInterpolationSpec($desc, $template, $data, $partials, $expected) {$/;"	f
+testInvertedSpec	mustache.php/test/MustacheSpecTest.php	/^	public function testInvertedSpec($desc, $template, $data, $partials, $expected) {$/;"	f
+testLambdaInterpolationInjection	mustache.php/test/MustacheInjectionTest.php	/^    public function testLambdaInterpolationInjection() {$/;"	f
+testLambdaSectionInjection	mustache.php/test/MustacheInjectionTest.php	/^    public function testLambdaSectionInjection() {$/;"	f
+testLambdasSpec	mustache.php/test/MustacheSpecTest.php	/^	public function testLambdasSpec($desc, $template, $data, $partials, $expected) {$/;"	f
+testModuleEmptyConstructor	Reflection-Router/tests/ActionMap.php	/^	public function testModuleEmptyConstructor(ActionMap $actionMap) {$/;"	f
+testModuleFail	Reflection-Router/tests/ActionMap.php	/^	public function testModuleFail(ActionMap $actionMap) {$/;"	f
+testModuleNotFound	Reflection-Router/tests/Action.php	/^	public function testModuleNotFound() {$/;"	f
+testModuleParam	Reflection-Router/tests/ActionMap.php	/^	public function testModuleParam(ActionMap $actionMap) {$/;"	f
+testModuleParamsIncorrect	Reflection-Router/tests/Action.php	/^	public function testModuleParamsIncorrect() {$/;"	f
+testMonsters	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function testMonsters() {$/;"	f
+testMultipleInvocations	mustache.php/test/MustacheTest.php	/^	public function testMultipleInvocations() {$/;"	f
+testMultipleInvocationsWithTags	mustache.php/test/MustacheTest.php	/^	public function testMultipleInvocationsWithTags() {$/;"	f
+testMustacheInjection	mustache.php/test/MustacheTest.php	/^	public function testMustacheInjection() {$/;"	f
+testMustacheUsesDifferentLoadersToo	mustache.php/test/MustacheLoaderTest.php	/^	public function testMustacheUsesDifferentLoadersToo() {$/;"	f
+testMustacheUsesFilesystemLoader	mustache.php/test/MustacheLoaderTest.php	/^	public function testMustacheUsesFilesystemLoader() {$/;"	f
+testNamespaceNonAlphanumeric	Reflection-Router/tests/Action.php	/^	public function testNamespaceNonAlphanumeric() {$/;"	f
+testNewlinesInComments	mustache.php/test/MustacheTest.php	/^	public function testNewlinesInComments() {$/;"	f
+testNoTypeCast	Reflection-Router/tests/ActionMap.php	/^	public function testNoTypeCast(ActionMap $actionMap) {$/;"	f
+testObjectWithGet	mustache.php/test/MustacheObjectSectionTest.php	/^	public function testObjectWithGet() {$/;"	f
+testOverrideThrownExceptionsViaConstructorOptions	mustache.php/test/MustacheExceptionTest.php	/^	public function testOverrideThrownExceptionsViaConstructorOptions() {$/;"	f
+testParamDefault	Reflection-Router/tests/ActionMap.php	/^	public function testParamDefault(ActionMap $actionMap) {$/;"	f
+testParamInvalid	Reflection-Router/tests/ActionMap.php	/^	public function testParamInvalid(ActionMap $actionMap) {$/;"	f
+testParamNoDefault	Reflection-Router/tests/ActionMap.php	/^	public function testParamNoDefault(ActionMap $actionMap) {$/;"	f
+testParamValid	Reflection-Router/tests/ActionMap.php	/^	public function testParamValid(ActionMap $actionMap) {$/;"	f
+testPartialInjection	mustache.php/test/MustacheInjectionTest.php	/^    public function testPartialInjection() {$/;"	f
+testPartialUnescapedInjection	mustache.php/test/MustacheInjectionTest.php	/^    public function testPartialUnescapedInjection() {$/;"	f
+testPartialsSpec	mustache.php/test/MustacheSpecTest.php	/^	public function testPartialsSpec($desc, $template, $data, $partials, $expected) {$/;"	f
+testPoorlyNestedSections	mustache.php/test/MustacheTest.php	/^	public function testPoorlyNestedSections($template) {$/;"	f
+testPragmaReplace	mustache.php/test/MustachePragmaTest.php	/^	public function testPragmaReplace() {$/;"	f
+testPragmaReplaceMultiple	mustache.php/test/MustachePragmaTest.php	/^	public function testPragmaReplaceMultiple() {$/;"	f
+testPragmaReplaceNewline	mustache.php/test/MustachePragmaTest.php	/^	public function testPragmaReplaceNewline() {$/;"	f
+testPragmaReset	mustache.php/test/MustachePragmaTest.php	/^	public function testPragmaReset() {$/;"	f
+testPragmaUnescaped	mustache.php/test/MustachePragmaUnescapedTest.php	/^	public function testPragmaUnescaped() {$/;"	f
+testRender	mustache.php/test/MustacheTest.php	/^	public function testRender() {$/;"	f
+testRenderWithData	mustache.php/test/MustacheTest.php	/^	public function testRenderWithData() {$/;"	f
+testRenderWithPartials	mustache.php/test/MustacheTest.php	/^	public function testRenderWithPartials() {$/;"	f
+testResetDelimiters	mustache.php/test/MustacheTest.php	/^	public function testResetDelimiters() {$/;"	f
+testResetTemplateForMultipleInvocations	mustache.php/test/MustacheTest.php	/^	public function testResetTemplateForMultipleInvocations() {$/;"	f
+testRuntimeSectionCallback	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function testRuntimeSectionCallback() {$/;"	f
+testSectionCallback	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function testSectionCallback() {$/;"	f
+testSectionInjection	mustache.php/test/MustacheInjectionTest.php	/^    public function testSectionInjection() {$/;"	f
+testSectionObjectWithFunction	mustache.php/test/MustacheObjectSectionTest.php	/^	public function testSectionObjectWithFunction() {$/;"	f
+testSectionObjectWithGet	mustache.php/test/MustacheObjectSectionTest.php	/^	public function testSectionObjectWithGet() {$/;"	f
+testSectionsSpec	mustache.php/test/MustacheSpecTest.php	/^	public function testSectionsSpec($desc, $template, $data, $partials, $expected) {$/;"	f
+testSpecInitialized	mustache.php/test/MustacheSpecTest.php	/^	public function testSpecInitialized() {$/;"	f
+testStaticSectionCallback	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function testStaticSectionCallback() {$/;"	f
+testStickyDelimiters	mustache.php/test/MustacheTest.php	/^	public function testStickyDelimiters() {$/;"	f
+testSuppressUnknownPragmaException	mustache.php/test/MustachePragmaTest.php	/^	public function testSuppressUnknownPragmaException() {$/;"	f
+testTheActualFilesystemLoader	mustache.php/test/MustacheLoaderTest.php	/^	public function testTheActualFilesystemLoader() {$/;"	f
+testThrowsUnclosedInvertedSectionException	mustache.php/test/MustacheExceptionTest.php	/^	public function testThrowsUnclosedInvertedSectionException() {$/;"	f
+testThrowsUnclosedSectionException	mustache.php/test/MustacheExceptionTest.php	/^	public function testThrowsUnclosedSectionException() {$/;"	f
+testThrowsUnexpectedCloseSectionException	mustache.php/test/MustacheExceptionTest.php	/^	public function testThrowsUnexpectedCloseSectionException() {$/;"	f
+testThrowsUnknownPartialException	mustache.php/test/MustacheExceptionTest.php	/^	public function testThrowsUnknownPartialException() {$/;"	f
+testThrowsUnknownPragmaException	mustache.php/test/MustacheExceptionTest.php	/^	public function testThrowsUnknownPragmaException() {$/;"	f
+testThrowsUnknownVariableException	mustache.php/test/MustacheExceptionTest.php	/^	public function testThrowsUnknownVariableException() {$/;"	f
+testTypeCastSuccess	Reflection-Router/tests/ActionMap.php	/^	public function testTypeCastSuccess(ActionMap $actionMap) {$/;"	f
+testUnescapedInterpolationInjection	mustache.php/test/MustacheInjectionTest.php	/^    public function testUnescapedInterpolationInjection() {$/;"	f
+testUnescapedSectionInjection	mustache.php/test/MustacheInjectionTest.php	/^    public function testUnescapedSectionInjection() {$/;"	f
+testUnknownPragmaException	mustache.php/test/MustachePragmaTest.php	/^	public function testUnknownPragmaException() {$/;"	f
+testViewArrayAnonymousSectionCallback	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function testViewArrayAnonymousSectionCallback() {$/;"	f
+testViewArraySectionCallback	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function testViewArraySectionCallback() {$/;"	f
+test__clone	mustache.php/test/MustacheTest.php	/^	public function test__clone($class, $template, $output) {$/;"	f
+test__construct	mustache.php/test/MustacheTest.php	/^	public function test__construct() {$/;"	f
+test__toString	mustache.php/test/MustacheTest.php	/^	public function test__toString() {$/;"	f
+test__toStringException	mustache.php/test/MustacheTest.php	/^	public function test__toStringException() {$/;"	f
+testableGetPragmaOptions	mustache.php/test/MustacheExceptionTest.php	/^	public function testableGetPragmaOptions($pragma_name) {$/;"	f
+title	mustache.php/examples/comments/Comments.php	/^	public function title() {$/;"	f
+toArray	class/ContentWriter.php	/^	public static function toArray($ideaData) {$/;"	f
+toJson	class/ContentWriter.php	/^	public static function toJson($ideaData){$/;"	f
+trim	mustache.js/mustache.js	/^  if (_trim) {$/;"	f
+trim	mustache.js/mustache.js	/^  var trim;$/;"	v
+two_in_a_row.greeting	mustache.js/spec/_files/two_in_a_row.js	/^  name: "Joe",$/;"	p
+two_in_a_row.name	mustache.js/spec/_files/two_in_a_row.js	/^var two_in_a_row = {$/;"	p
+unescaped.title	mustache.js/spec/_files/unescaped.js	/^var unescaped = {$/;"	m
+validateinternal	Reflection-Router/tests/RegisterExample.php	/^	private function validateinternal($secret) {$/;"	f
+vote	class/VoteManager.php	/^	public function vote(){$/;"	f
+whitespace.tag1	mustache.js/spec/_files/whitespace.js	/^var whitespace = {$/;"	p
+whitespace.tag2	mustache.js/spec/_files/whitespace.js	/^  tag1: "Hello",$/;"	p
+will	Interface.php	/^	\/\/this interface will return multiple items if more than one superglobal is set $/;"	i
+will	class/VoteManager.php	/^\/\/more intelligent way and this class will need to be changed.$/;"	c
+wrapWithBoth	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function wrapWithBoth($text) {$/;"	f
+wrapWithEm	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function wrapWithEm($text) {$/;"	f
+wrapWithStrong	mustache.php/test/MustacheHigherOrderSectionsTest.php	/^	public function wrapWithStrong($text) {$/;"	f

@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Missed Idea</title>
+<link style="text/css" rel="stylesheet" href="css/reset.css" />
+<link style="text/css" rel="stylesheet" href="css/core.css" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.js"></script>
+<script type="text/javascript" src="ICanHaz.js/ICanHaz.js"></script>
+<script type="text/javascript" src="js/MissedIdea.js"></script>
+{{#templates}}
+<script type="text/html" id="{{id}}">{{{content}}}</script>
+{{/templates}}
+</head>
+<body>
+<div id="navigation">
+	<h2><img src="img/missedidealogo.png" width="111" height="94" alt="Missed Idea" /></h2>
+	<ul>
+		<li class="all"><a href="{{allLink}}">Anything</a></li>
+		{{#categoryList}}
+			<li><a href="{{link}}">{{name}}</a></li>
+		{{/categoryList}}
+	</ul>
+	<ul class="account">
+		<li><a href="#">Favorites</a></li>
+		<li><a href="#">Friend ideas</a></li>
+		<li><a href="#">My ideas</a></li>
+	</ul>
+	<div id="fb-root"></div>
+    <div class="fb-login-button">Login with Facebook</div>
+</div>
+<div id="ideas">
+	<form action="{{submitIdeaUrl}}" method="post" id="formSubmitIdea">
+		<dl>
+			<dt>Post your idea</dt>
+			<dd><input type="text" value="Your idea..." /></dd>
+		</dl>
+		<p><button>Post it!</button></p>
+	</form>
+	<ol>
+		{{#ideas}}
+			{{> ideaTemplate}}
+		{{/ideas}}
+	</ol>
+	<div id="loadMore" class="load"><strong>&darr;</strong> Load more ideas</div>
+</div>
+</body>
+</html>
